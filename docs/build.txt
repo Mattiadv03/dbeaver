@@ -1,4 +1,6 @@
 DBeaver build
+
+Test per commit 25/10/2023
 =================================
 
 Prerequisites
